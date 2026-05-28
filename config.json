@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorsave",
+        "uuid": 5977127,
+        "checksum": "l2112o"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
